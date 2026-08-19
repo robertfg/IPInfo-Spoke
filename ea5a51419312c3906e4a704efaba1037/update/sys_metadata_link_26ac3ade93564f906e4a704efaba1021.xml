@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>811af69a93564f906e4a704efaba10d2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="http_connection">
+    <http_connection action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_scope display_value="RebrickableDuplicate Spoke">40067e0f930607506e4a704efaba10c1</app_scope>
+        <application display_value="ALL">35aa573fd7802200bdbaee5b5e610375</application>
+        <base_path/>
+        <capabilities/>
+        <connection_alias display_value="x_1564603_rebric_0.Rebrickable_Alias">edb87ed693564f906e4a704efaba10a7</connection_alias>
+        <connection_retries>0</connection_retries>
+        <connection_timeout/>
+        <connection_url>https://rebricable.com/api/v3</connection_url>
+        <credential/>
+        <extended_attributes/>
+        <host>rebricable.com</host>
+        <is_internal>false</is_internal>
+        <mid_cluster/>
+        <mid_protocol_profile/>
+        <mid_selection>auto_select</mid_selection>
+        <mid_server/>
+        <mutual_auth>false</mutual_auth>
+        <name>Rebrickable v3</name>
+        <order>100</order>
+        <port/>
+        <protocol>https</protocol>
+        <protocol_profile/>
+        <sys_class_name>http_connection</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-27 22:55:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>811af69a93564f906e4a704efaba10d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-27 22:55:45</sys_updated_on>
+        <url_builder>false</url_builder>
+        <use_mid>false</use_mid>
+    </http_connection>
+    <sys_variable_value action="delete_multiple" query="document_key=811af69a93564f906e4a704efaba10d2"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-27 23:04:11</sys_created_on>
+        <sys_id>26ac3ade93564f906e4a704efaba1021</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rebrickable v3</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_1564603_ipinfo_0">ea5a51419312c3906e4a704efaba1037</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">ea5a51419312c3906e4a704efaba1037</sys_scope>
+        <sys_update_name>sys_metadata_link_26ac3ade93564f906e4a704efaba1021</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-27 23:04:11</sys_updated_on>
+        <tablename>sys_connection</tablename>
+    </sys_metadata_link>
+</record_update>
